@@ -1,2 +1,3 @@
 # Colosseum
-Gladiators, object oriented repo for java
+Gladiators, object oriented repo for java training
+
